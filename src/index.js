@@ -6,4 +6,3 @@ const root = createRoot(document.getElementById("root"));
 
 root.render(<Hello />);
 root.render(<App />);
-
