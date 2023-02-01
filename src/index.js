@@ -11,3 +11,4 @@ root.render(<Hello />);
 root.render(<App />);
 ReactDOM.render(<App />, document.getElementById("root"));
 root.render(<ModifyHello />);
+root.render(<Hello />);
